@@ -1,0 +1,21 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-image: url("./assets/newYear.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.title {
+  color: #eed28b;
+  font-size: 64px;
+  font-weight: 800;
+  font-family: "PP Object Sans", sans-serif;
+
+  text-shadow: 0 4px 8px rgba(0, 0, 0, 0.45), 0 8px 20px rgba(0, 0, 0, 0.35);
+}
